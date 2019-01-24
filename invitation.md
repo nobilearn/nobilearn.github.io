@@ -63,8 +63,8 @@ layout: default
 
 * [minecraft PI edition](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/5) でのプログラミング
 	* お子様に人気の minecraft を題材に  
-	Python の基本的なプログラミングを学習します。
-	* ![mcpi]({{ site.url }}/img/mcpi.png)
+	Python の基本的なプログラミングを学習します。  
+	![mcpi]({{ site.url }}/images/mcpi.png)
 
 * Linux OS with Raspberry Pi.
 	* スマートフォンの OS である Android や  
@@ -77,8 +77,8 @@ layout: default
 
 * [micro:bit](https://microbit.org/ja/) での電子回路プログラミング
 	* micro:bit と MycroPython を使って  
-	簡単な電子回路を構築します。
-	* ![mb_relay]({{ site.url }}/img/mb_relay.jpg)
+	簡単な電子回路を構築します。  
+	![mb_relay]({{ site.url }}/images/mb_relay.jpg)
 
 ---
 
@@ -88,7 +88,7 @@ layout: default
 
 * 略歴
 	* 関西大学　総合情報学部　卒業
-	* 2003 年度よりプログラマーとして現職
+	* 2003 年度よりソフトウェア開発技術者として現職
 
 * これまでの主要な開発実績
 	* 撮像機器の制御ソフトウェア（Ｃ言語）
@@ -127,15 +127,15 @@ layout: default
 	* 1 回 90 分の授業となります。
 
 * 入塾金 : **12,000** 円
-	* 教材の購入費用で、代理でご用意させて頂きます。  
+	* 教材の購入費用として頂き、代理でご用意させて頂きます。  
 	以下のものを初回の授業でお渡し致します。
 		* Raspberry Pi 3
 		* AC アダプター
 		* マイクロ SD カード
 		* LCD ディスプレイ
 		* スタンド
-	* 組み立てると、このようになります。
-		* ![raspi]({{ site.url }}/images/raspi.jpg)
+	* 組み立てると、このようになります。  
+	![raspi]({{ site.url }}/images/raspi.jpg)
 		* 組み立ては、初回の授業にてお子様と一緒に行います。
 	* **1 年間一括**でご契約頂いた方は、  
 	**入塾金は無料**とさせて頂きます。
@@ -157,5 +157,7 @@ layout: default
 * ご希望頂いた方には、ご入塾前に  
 対面で口頭でのご説明もさせて頂きます。  
 お気軽にご連絡ください。
+	* お電話でのご説明をご希望の場合は、  
+	上記のメールにお電話番号のご記入をお願い致します。
 
 ---
