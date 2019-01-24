@@ -64,7 +64,7 @@ layout: default
 * [minecraft PI edition](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/5) でのプログラミング
 	* お子様に人気の minecraft を題材に  
 	Python の基本的なプログラミングを学習します。
-	* ![mcpi]({{ site.url }}/_img/mcpi.png)
+	* ![mcpi]({{ site.url }}/img/mcpi.png)
 
 * Linux OS with Raspberry Pi.
 	* スマートフォンの OS である Android や  
@@ -78,13 +78,13 @@ layout: default
 * [micro:bit](https://microbit.org/ja/) での電子回路プログラミング
 	* micro:bit と MycroPython を使って  
 	簡単な電子回路を構築します。
-	* ![mb_relay]({{ site.url }}/_img/mb_relay.jpg)
+	* ![mb_relay]({{ site.url }}/img/mb_relay.jpg)
 
 ---
 
 ## 講師のご紹介
 
-![portrait]({{ site.url }}/_img/mii.png)
+![portrait]({{ site.url }}/images/mii.png)
 
 * 略歴
 	* 関西大学　総合情報学部　卒業
@@ -135,7 +135,7 @@ layout: default
 		* LCD ディスプレイ
 		* スタンド
 	* 組み立てると、このようになります。
-		* ![raspi]({{ site.url }}/_img/raspi.jpg)
+		* ![raspi]({{ site.url }}/images/raspi.jpg)
 		* 組み立ては、初回の授業にてお子様と一緒に行います。
 	* **1 年間一括**でご契約頂いた方は、  
 	**入塾金は無料**とさせて頂きます。
