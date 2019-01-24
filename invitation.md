@@ -1,6 +1,5 @@
 ---
 layout: default
-title: 教室のご案内
 ---
 
 # プログラミング教室「のびのびラーニング」
@@ -65,7 +64,7 @@ title: 教室のご案内
 * [minecraft PI edition](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/5) でのプログラミング
 	* お子様に人気の minecraft を題材に  
 	Python の基本的なプログラミングを学習します。
-	* ![](_img/mcpi.png)
+	* ![mcpi](_img/mcpi.png)
 
 * Linux OS with Raspberry Pi.
 	* スマートフォンの OS である Android や  
@@ -79,13 +78,13 @@ title: 教室のご案内
 * [micro:bit](https://microbit.org/ja/) での電子回路プログラミング
 	* micro:bit と MycroPython を使って  
 	簡単な電子回路を構築します。
-	* ![](_img/mb_relay.jpg)
+	* ![mb_relay](_img/mb_relay.jpg)
 
 ---
 
 ## 講師のご紹介
 
-![](_img/mii.png)
+![portrait](_img/mii.png)
 
 * 略歴
 	* 関西大学　総合情報学部　卒業
@@ -136,7 +135,7 @@ title: 教室のご案内
 		* LCD ディスプレイ
 		* スタンド
 	* 組み立てると、このようになります。
-		* ![](_img/raspi.jpg)
+		* ![raspi](_img/raspi.jpg)
 		* 組み立ては、初回の授業にてお子様と一緒に行います。
 	* **1 年間一括**でご契約頂いた方は、  
 	**入塾金は無料**とさせて頂きます。
@@ -154,8 +153,6 @@ title: 教室のご案内
 こちら (nobilearn@gmail.com) までメールください。
 	* お子様のご年齢
 	* 開始ご希望月
-
-<br>
 
 * ご希望頂いた方には、ご入塾前に  
 対面で口頭でのご説明もさせて頂きます。  
