@@ -76,7 +76,7 @@ layout: default
 	* 上述のネットワーク設定など、必要な IT の知識を学びます。
 
 * [micro:bit](https://microbit.org/ja/) での電子回路プログラミング
-	* micro:bit と MycroPython を使って  
+	* micro:bit と MicroPython を使って  
 	簡単な電子回路を構築します。  
 	![mb_relay]({{ site.url }}/images/mb_relay.jpg)
 
@@ -137,6 +137,9 @@ layout: default
 	* 組み立てると、このようになります。  
 	![raspi]({{ site.url }}/images/raspi.jpg)
 		* 組み立ては、初回の授業にてお子様と一緒に行います。
+		* お子様の興味関心を見られてからご購入されたい場合は、  
+		初月は貸与させて頂き、ご様子を見られてから購入頂くことも可能です。  
+		（数に限りがございますので、ご要望の際にはご相談ください。）
 	* **1 年間一括**でご契約頂いた方は、  
 	**入塾金は無料**とさせて頂きます。
 
